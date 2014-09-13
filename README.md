@@ -3,7 +3,7 @@
 
 This is a recreation/prototype of the Dropbox Carosel app.
 
-Time spent: 25.5
+Time spent: 25.5 hours
 
 Completed user stories:
 
@@ -45,7 +45,7 @@ Optional: Learn more about Carosel
  * [ ] None
 
  
-Notes: Tim, **Please have a look at the intro transform code I wrote. It's different. Feedback is welcome. I listened to your video, then decided I would get a better grasp on it by writting my own functions.**
+Notes: Tim, **Please have a look at the intro transform code I wrote. It's different. I'd appreciate your feedback. I listened to your video, then decided I would get a better grasp on it by writting my own functions.** I also decided to try for different placement of intro images, with one image tile sliding **under** the subtitle of the page.
 
 
 Walkthrough of all user stories:
